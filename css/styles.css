@@ -1,6 +1,9 @@
 html {
   font-family: Helvetica, Arial;
   background-color: black;
+  margin: 30px;
+  font-size: 20px;
+  color: #34b000;
 }
 
 a {
@@ -13,7 +16,10 @@ a:visited, a:hover {
   color: #34b4eb;
 }
 
-.install {
-  margin: 30px;
+.module {
+  margin-bottom: 40px;
+}
+
+.large {
   font-size: 2rem;
 }
